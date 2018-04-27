@@ -1,11 +1,16 @@
 # SQLLearning
 
-# Find all result of Table.
+# SELECT
 ```
 Select * From TableName;
 ```
+# SELECT DISTINCT
+```
+Select * from TableName
 
-# Insert Values into Table
+```
+
+# INSERT
 ```
 INSERT INTO TableName ("ShipperID","ShipperName","Phone") Values (4,"Siddhant Shipping","845488");
 ```
